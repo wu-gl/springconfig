@@ -1,2 +1,3 @@
-user:
-  name: ls
+data:
+  user:
+    username: ls

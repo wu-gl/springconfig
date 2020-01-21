@@ -1,2 +1,3 @@
-user:
-  name: ww
+data:
+  user:
+    username: ww
